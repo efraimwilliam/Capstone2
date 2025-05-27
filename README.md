@@ -24,4 +24,4 @@ Komisi Taksi dan Limusin Kota New York (TLC) adalah lembaga yang bertanggung jaw
 6. Dikarenakan adanya korelasi antara tip_amount dengan jam sibuk pagi hari dan sore hari dengan hasil jumlah tip biasanya lebih besar di sore hari, perusahaan bisa memberikan tip juga kepada pengemudi di pagi hari (morning_peak) sehingga, jumlah taxi yang ada pada pagi hari dan sore hari seiimbang. Jika tidak, maka ada kemungkinan para pengemudi enggan bekerja di pagi hari, mengingat jumlah tip yang dihasilkan tidak sebesar pada sore hari.
 
 Link Youtube : https://youtu.be/ogKyV9TQiMo
-PPT : https://www.canva.com/design/DAGonzx0260/cpB7fEJI4GSpn-mlI6LPsg/view?utm_content=DAGonzx0260&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3af0eb19c
+<br>PPT : https://www.canva.com/design/DAGonzx0260/cpB7fEJI4GSpn-mlI6LPsg/view?utm_content=DAGonzx0260&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3af0eb19c
