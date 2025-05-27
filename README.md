@@ -25,3 +25,4 @@ Komisi Taksi dan Limusin Kota New York (TLC) adalah lembaga yang bertanggung jaw
 
 Link Youtube : https://youtu.be/ogKyV9TQiMo
 <br>PPT : https://www.canva.com/design/DAGonzx0260/cpB7fEJI4GSpn-mlI6LPsg/view?utm_content=DAGonzx0260&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3af0eb19c
+<br>Tableau : https://public.tableau.com/views/VisualisasiFixBanget/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
