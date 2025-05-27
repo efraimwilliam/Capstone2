@@ -1,7 +1,7 @@
 # Capstone2
 Capstone 2 : Capstone 2 - New York City TLC Trip Records
 
-https://github.com/efraimwilliam/Capstone2/blob/main/NYC%20Taxi.jpg?raw=true
+![image_alt](https://github.com/efraimwilliam/Capstone2/blob/main/NYC%20Taxi.jpg?raw=true)
 
 <h3>Company Overview</h3>
 Komisi Taksi dan Limusin Kota New York (TLC) adalah lembaga yang bertanggung jawab untuk memberikan lisensi dan mengatur operasional taksi medali, kendaraan sewaan (FHV), kendaraan paratransit, dan van komuter di Kota New York. Didirikan pada tahun 1971, TLC memastikan layanan transportasi yang aman, efisien, dan dapat diakses bagi jutaan penduduk dan pengunjung setiap tahunnya. TLC menetapkan tarif, membuat aturan operasional, serta menegakkan standar pengemudi dan kendaraan untuk menjaga keselamatan publik dan kualitas layanan. TLC memainkan peran penting dalam mengelola lanskap transportasi darat yang beragam di kota ini, mencakup taksi kuning ikonik, mobil hitam, dan layanan ride-sharing.
