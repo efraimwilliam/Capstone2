@@ -1,4 +1,3 @@
-# Capstone2
 <h1>Capstone 2 - New York City TLC Trip Records</h1>
 
 ![image_alt](https://github.com/efraimwilliam/Capstone2/blob/main/NYC%20Taxi.jpg?raw=true)
